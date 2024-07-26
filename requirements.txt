@@ -1,1 +1,13 @@
 streamlit
+pandas
+bitsandbytes
+accelerate
+diffusers
+pathlib
+requests
+transformers
+numpy 
+pandas
+streamlit
+tqdm
+numpy
