@@ -3,6 +3,7 @@ pandas
 bitsandbytes
 accelerate
 diffusers
+torch
 pathlib
 requests
 transformers
