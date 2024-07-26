@@ -3,6 +3,8 @@ pandas
 bitsandbytes
 accelerate
 diffusers
+PIL
+cv2
 torch
 pathlib
 requests
